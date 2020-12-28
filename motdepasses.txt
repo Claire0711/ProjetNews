@@ -1,0 +1,15 @@
+identifiant : Claire07
+email : thl.claire07@gmail.com
+mdp : azerty
+
+identifiant : ZacharyB
+email : zacharyb@gmail.com
+mdp : 123456
+
+améliorations  : 
+-possibilité de se connecter grâce à un pseudo
+-mot de passe crypté
+-changer son mot de passe
+-l'auteur peut modifier ou supprimer sa news
+-possibilité d'ajouter un thème
+-possibilité d'ajouter/voir les commentaires
